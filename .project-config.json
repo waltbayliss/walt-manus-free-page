@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663370007106/DPz9qmPYsmermFjRtUZhH6",
+    "access_key_id": "ASIAZV3A2ECZCOQA3ROD",
+    "secret_access_key": "eOH5Uygz1kiFgs7hzBc8PnkQ+Hj8fqJK8U5COA8f",
+    "session_token": "IQoJb3JpZ2luX2VjELv//////////wEaCXVzLWVhc3QtMSJGMEQCIHfWzXemDakmHdUXP1t9Zpx4SxXY7UX7/3KLa2GUjUkYAiAPkoDiYwbLCz22NXBRwkIA26TXEczt25SCoY1PopcfWCr/AwiE//////////8BEAQaDDY2NTM4NjA5ODg2NiIMlECjzRSJrDe2OND6KtMD6ehgUreSyH9+8t/B260+kmy1XP6gBAskObXJDrhXjVsXDsTrZtZznhSTr6Gv4BS2bZPe41AOff0vyRhLJZsoc8UwIC9UpcsZI5uF7FlIaEl7ooMechq9rcsqwMc9gfXN+H1J7Mc0sHvHPLGNEj5+FZzwpfC64Tn8PEDgmgjorP8DpSqaScUY6WUE5+/FdKQzlKvMuN5sd8Zn5qqvyUbrGxB7vddYLBfYXNUaNRTFHHwDO5eQHkWK+GIRVXmgV7qj3j++AlnQWNLcTXafuI3EvpaHsG75VHMLb+WyzAn/RnbFa8E8wOf/h8JOteDwqyRWr/f3cKCoWCVvHBvyzzt5xHORFU+fwQqJbZ6lF9W82K3Q2ly00sXQ0aITec0vGZQEWsvw6JP68eiFog82b8kpxJKRCcho+0mNBDXIoxGIRnF5osyou74oUwOSYlgUrNdHTxUT/ckbcTpNDgXWjpPeaow0MDXrWFaFpp6xB8arABuulxj+UIDAVgspxRTrUIyEEAAQ9EmEjDjDp+Ln/QfrHKRdOaS1GyUMH/2VxUgpaorq1Zkq1ETahg7rS8k6aVEdxNNJSq8NrgNiAZvscY6Pqx0arQfTCyveP/u/KProyZAKrmQw47uf0AY6ngE5mtWMzQsqSk2kywpoeYN081hk1ewMIzg6PLKIVT1GGRQBbvXoEibQEkvWMjuIMqoFtdYLkAipOY1jguDN0hQZ4ldJOp2N3QoBDMDxPRhMQbl/p0yNfLVEeHQp5eC/1mA3VFcq6b2FjFNQkGpILuLNCLWzRGfFkstcfE00hgLZQjd20rKLbr4ri9cZCLMZYYeGHqeHUjysmR9xeZBquw==",
+    "expiration": "2026-05-16T15:00:51.000Z"
+  },
+  "name": "walt-manus-free-page",
+  "path": "/home/ubuntu/walt-manus-free-page",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "oLpmqYQLLtaKbs9wrZcu4a",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "HYLsfPBEcHRo8DaSgpFqzt",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "walt",
+    "OWNER_OPEN_ID": "mudxPspms46FoyHToW52F2",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "018083df-4b0e-480a-87f8-0fde4779c3ca",
+    "VITE_APP_ID": "DPz9qmPYsmermFjRtUZhH6",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Walt Bayliss Manus Free Guide Page",
+    "VITE_FRONTEND_FORGE_API_KEY": "dWQAthKFvFMZFnE6HYpCxo",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
